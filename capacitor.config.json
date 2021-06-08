@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Sheroo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
